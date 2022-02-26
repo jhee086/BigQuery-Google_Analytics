@@ -1,16 +1,16 @@
 # BigQuery-Google_Analytics
 
 - Audience
-    + Overview (1)
+    + Overview (O)
    
 - Acquisition
     + All Traffic
-       + Source/Medium (2)
+       + Source/Medium (O)
   
 - Behavior
     + Site Content
        + All Pages
     + Events
-       + Top Events (3)
+       + Top Events (O)
 
 - Conversions
