@@ -14,3 +14,8 @@
        + Top Events (O)
 
 - Conversions
+    + Ecommerce
+       + Overview
+       + Shopping Behavior
+       + Product Performance
+       + Sales Performance
