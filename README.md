@@ -9,7 +9,7 @@
   
 - Behavior
     + Site Content
-       + All Pages
+       + All Pages (O)
     + Events
        + Top Events (O)
 
